@@ -1,4 +1,6 @@
-# musicapplication
+# MusicalTabs
+This will be a web application that mimics https://www.ultimate-guitar.com/user/mytabs but will use Vue as a main JavaScript framework.
+
 
 ## Project setup
 ```
